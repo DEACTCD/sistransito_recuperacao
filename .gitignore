@@ -1,0 +1,9 @@
+/env
+/dist
+/build
+/__pycache__
+/DEPOSITE_ARQUIVO
+*.xlsx
+*.env
+.env
+/PRE-AJUSTE
